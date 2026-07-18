@@ -10,7 +10,7 @@
 
 I'm an AI Agent developer exploring how characters can maintain identity, memory, relationships, and continuity across long-term interactions.
 
-I'm currently building [Shiori](https://github.com/YinFengWindy/Shiori-Agent), a local-first character Agent that brings together persistent memory, proactive behavior, multiple communication channels, and conversation-driven visual storytelling.
+I'm currently building [Shiori](https://github.com/YinFengWindy/Shiori-Agent), a local-first, character-centered AI Agent with persistent memory, proactive interaction, cross-channel continuity, and scene CG generation for immersive long-term storytelling.
 
 ## Currently
 
@@ -20,7 +20,7 @@ I'm currently building [Shiori](https://github.com/YinFengWindy/Shiori-Agent), a
 
 ## Building
 
-- **[Shiori](https://github.com/YinFengWindy/Shiori-Agent)** — a local-first character Agent for Windows, built with a Python Agent Runtime and an Electron desktop client
+- **[Shiori](https://github.com/YinFengWindy/Shiori-Agent)** — a local-first character Agent for Windows, combining a Python Agent Runtime and Electron desktop client with persistent memory, proactive interaction, and scene CG generation
 
 ## Interested in
 
