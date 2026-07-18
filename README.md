@@ -29,8 +29,6 @@ Agent Architecture · Context Engineering · Long-term Memory · Character Agent
 ## Connect
 
 [![Blog](https://img.shields.io/badge/Blog-windchant.online-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.windchant.online)
-[![GitHub](https://img.shields.io/badge/GitHub-YinFengWindy-181717?style=flat-square&logo=github)](https://github.com/YinFengWindy)
-
 ---
 
 🌸 Building Agents that remember who they are — and who they are with.
