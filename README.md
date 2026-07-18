@@ -20,7 +20,7 @@ I'm currently building [Shiori](https://github.com/YinFengWindy/Shiori-Agent), a
 
 ## Building
 
-- **[Shiori](https://github.com/YinFengWindy/Shiori-Agent)** — a local-first character Agent for Windows, combining a Python Agent Runtime and Electron desktop client with persistent memory, proactive interaction, and scene CG generation
+- **[Shiori](https://github.com/YinFengWindy/Shiori-Agent)** — a local-first character Agent where independent memories, proactive interaction, cross-channel continuity, and scene CG generation create a more immersive long-term experience
 
 ## Interested in
 
